@@ -1,0 +1,18 @@
+header {
+	font-family: Georgia;
+	font-size:20px;
+	word-spacing:3px;
+	background-color:gold;
+}
+/* table {
+    border-collapse: collapse;
+    width: 100%;
+} */
+
+table, th, td {
+	border:1px solid black;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
